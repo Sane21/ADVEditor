@@ -1,0 +1,39 @@
+@[EOF] 終了
+
+画像関連
+@[IMG_ADD, {adressable}, {name}, {Type(ITEM)}]
+    画像の登録
+    adressable : UnityEditorで設定したアドレス
+    name : 変数名
+    Type : 変数の型 ITEMのみ実装済み
+@[IMG_PLAY, {name}, {isActive}]
+    画像の表示
+    name : 変数名
+    isActive : True or False, 表示/非表示
+@[BG_ADD, {adressable}, {name}]
+    背景画像の登録
+    adressable : UnityEditorで設定したアドレス
+    name : 変数名
+@[BG_CHANGE, {name}]
+    背景画像の変更
+    name : 変数名
+
+音声関連    
+@[SE_ADD, {adressable}, {name}]
+    AudioClipの登録
+    adressable : UnityEditorで設定したアドレス
+    name : 変数名
+@[SE_PLAY, {name}]
+    SEの再生
+    name : 変数名
+@[BGM_ADD, {adressable}, {name}]
+    AudioClipの登録
+    adressable : UnityEditorで設定したアドレス
+    name : 変数名   
+@[BGM_SET, {name}]
+    BGM音源の設定
+    name : 変数名
+@[BGM_PLAY, {isPlay}, {isLoop}]
+    BGMの再生
+    isPlay : True or False, 再生/停止
+    isLoop : True or False, ループする/しない

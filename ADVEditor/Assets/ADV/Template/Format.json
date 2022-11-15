@@ -1,0 +1,19 @@
+[
+    {
+        "id": "NODE-IF",
+        "type": {
+            "name": "IF",
+            "id_array": [],
+            "flag_id": ""
+        },
+        "source": ""
+    },
+    {
+        "id": "NODE-BASE",
+        "type": {
+            "name": "BASE",
+            "id_array": []
+        },
+        "source": ""
+    }
+]

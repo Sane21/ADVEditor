@@ -1,0 +1,19 @@
+@[BGM_ADD, SampleResources/AudioSources/unpaid, unpaid]
+@[IMG_ADD, SampleResources/Sprites/ramen, ramen, ITEM]
+@[SE_ADD, SampleResources/AudioSources/clap, clap]
+@[BG_ADD, SampleResources/Sprites/bg1, chinanago]
+@[BGM_SET, unpaid]
+@[BGM_PLAY, true, true]
+本日紹介するのはあるラーメン。
+@[IMG_PLAY, ramen, true]
+@[SE_PLAY, clap]
+こちらは福岡県久留米市に軒を構えるとんこつラーメンの老舗、清陽軒の一杯。
+とんこつラーメン発祥の地である久留米で黎明期から屋台で地元に愛されてきました。
+現在は久留米を中心に複数の店舗を構えています。
+毎月11日には替え玉の日として、替え玉1杯19円のキャンペーンをしています。
+セットのチャーハンなどのサイドメニューも美味しく豊富で、座敷や子供用の食器等の用意も手厚いので子連れでも行きやすい庶民に優しい町の味処です。
+最後に全く関係ないですが、福岡市マリンワールド海の中道のかわいいチンアナゴをお見せして終了とします。
+@[BG_CHANGE, chinanago]
+@[SE_PLAY, clap]
+ご視聴いただきありがとうございました。
+@[EOF]

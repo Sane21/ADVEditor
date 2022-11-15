@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9028f5c582fe1774bbfb7bebddc0ef9e
+  m_SerializeEntries:
+  - m_GUID: f534cea4bb6a0434dba9cff9f8b1c90b
+    m_Address: SampleResources/Sprites/ramen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e6fb87ce958a75244b4e72923bedcfc5
+    m_Address: ADV/Prefabs/Image
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 624a7ba18c001b941997529bff141659
+    m_Address: SampleResources/Sprites/bg1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 592a7a9d7e7793f45af83d6140366fd1
+    m_Address: Assets/ADV/SampleResources/Sprites/bg0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9988b36d54db276489c0ca855aabd8a5
+    m_Address: SampleResources/TextSorces/Example
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62ac5cbd3b8f6404fb899dfcd038f1e8
+    m_Address: SampleResources/AudioSources/unpaid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcdef1c865c04104c9a660f01048030e
+    m_Address: ADV/Prefabs/SoundManager
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10f507784a2a22f4781ca06eab335cca
+    m_Address: SampleResources/AudioSources/clap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 615f8d341f7fdf24a9368804734150dc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 695778eaacaed774a8942be74a8c6fd3, type: 2}
+    - {fileID: 11400000, guid: 0758332d869f4a54ca62b8b41222206e, type: 2}
